@@ -40,4 +40,4 @@ This software uses the following open source packages:
 
 ![Image](https://github.com/valendion/Submission-Belajar-Membuat-Aplikasi-Web-dengan-React/blob/main/ss-arsip.png?raw=true)
 
-![Image]([ss-search.png](https://github.com/valendion/Submission-Belajar-Membuat-Aplikasi-Web-dengan-React/blob/main/ss-search.png?raw=true)
+![Image](https://github.com/valendion/Submission-Belajar-Membuat-Aplikasi-Web-dengan-React/blob/main/ss-search.png?raw=true)
